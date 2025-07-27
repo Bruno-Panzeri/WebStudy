@@ -25,5 +25,8 @@ App do menu de uma cafeteria
 4. Sombra
 5. Opacidade
 
+## RegistrationForms
+
+Criação de um formulario de registro. Aprendendo sobre tipos de input.
 
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
