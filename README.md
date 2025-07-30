@@ -29,4 +29,11 @@ App do menu de uma cafeteria
 
 Criação de um formulario de registro. Aprendendo sobre tipos de input.
 
+## RothkoPainting
+
+1. Divs
+2. Blur
+3. Border Radius
+4. Rotate
+
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
