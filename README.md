@@ -36,4 +36,8 @@ Criação de um formulario de registro. Aprendendo sobre tipos de input.
 3. Border Radius
 4. Rotate
 
+## RothkoPainting
+
+Criação de uma galeria de fotos com flexbox, seletor universal e pseudoelemento.
+
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
