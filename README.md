@@ -40,4 +40,8 @@ Criação de um formulario de registro. Aprendendo sobre tipos de input.
 
 Criação de uma galeria de fotos com flexbox, seletor universal e pseudoelemento.
 
+## NutritionLabels
+
+Criação de uma tabela nutricional, explorando formas de alinhar o conteudo dentro dela.
+
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
