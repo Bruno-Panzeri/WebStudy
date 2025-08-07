@@ -44,4 +44,9 @@ Criação de uma galeria de fotos com flexbox, seletor universal e pseudoelement
 
 Criação de uma tabela nutricional, explorando formas de alinhar o conteudo dentro dela.
 
+## HTML/CSS Quiz
+
+Criação de um questionário com recursos de acessibilidade.
+
+
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
