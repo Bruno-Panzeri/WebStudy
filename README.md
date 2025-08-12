@@ -52,4 +52,9 @@ Criação de um questionário com recursos de acessibilidade.
 
 Criando uma folha de saldo, aprendendo a usar mais pseudoelementos.
 
+## CatPainting
+
+Desenhando um gato com elementos de CSS.
+
+
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
