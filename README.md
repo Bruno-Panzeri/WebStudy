@@ -36,7 +36,7 @@ Criação de um formulario de registro. Aprendendo sobre tipos de input.
 3. Border Radius
 4. Rotate
 
-## RothkoPainting
+## PhotoGallery
 
 Criação de uma galeria de fotos com flexbox, seletor universal e pseudoelemento.
 
@@ -55,6 +55,10 @@ Criando uma folha de saldo, aprendendo a usar mais pseudoelementos.
 ## CatPainting
 
 Desenhando um gato com elementos de CSS.
+
+## Piano
+
+Desenhando um piano, usando recursos de design responsivo.
 
 
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
