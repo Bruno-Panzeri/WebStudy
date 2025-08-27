@@ -64,4 +64,8 @@ Desenhando um piano, usando recursos de design responsivo.
 
 Desenhando o horizonte de uma cidade, usando variáveis em CSS.
 
+## MagazineGrid
+
+Aprendendo grid criando uma revista.
+
 Este arquivo foi feito com a ajuda do [markdownguide](https://www.markdownguide.org/basic-syntax/#links).
